@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Geeks 👋
+### 📫 How to reach me: http://arpittrivedi2425.me/
+### ⚡ Fun fact: 51% Of People Think Stormy Weather Affects Cloud Computing
 
 <!--
 **arpit2425/arpit2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
