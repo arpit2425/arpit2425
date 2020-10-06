@@ -1,36 +1,22 @@
-### Hi Geeks 👋
-### 📫 How to reach me: http://arpittrivedi2425.me/
-### ⚡ Fun fact: 51% Of People Think Stormy Weather Affects Cloud Computing
-- 🌱 I’m currently learning Angular
-- 💬 Ask me about anything [here](https://github.com/arpit2425/arpit2425/issues)
-<br />
+### Hi there 👋, my name is Arpit
+![](https://www.wallpapertip.com/wmimgs/41-412909_github-octocat.jpg)
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+Skills: Node JS / REACT / JS / EXPRESS/ JAVA
 
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpit2425&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]
+- 🔭 I’m currently working on MERN Stack 
+- 🌱 I’m currently learning Graphql  
+- 👯 I’m looking to collaborate on new and challenging project 
+- 📫 How to reach me: http://arpittrivedi2425.me/ 
+- ⚡ Fun fact: 51% Of People Think Stormy Weather Affects Cloud Computing 
 
-<a href="https://github.com/arpit2425/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit2425&layout=compact&theme=radical" />
-</a>
-   
 
-<!--
-**arpit2425/arpit2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arpit2425)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arpit-trivedi2425/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arpit2425/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamarpit2425)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://arpittrivedi2425.me/)  
 
-Here are some ideas to get you started:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a><a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit2425)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit2425&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/arpit2425)  
